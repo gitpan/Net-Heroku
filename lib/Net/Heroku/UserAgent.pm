@@ -56,7 +56,7 @@ sub build_tx {
 
 =head1 NAME
 
-Net::Heroku::UserAgent;
+Net::Heroku::UserAgent
 
 =head1 DESCRIPTION
 
@@ -69,5 +69,9 @@ Net::Heroku::UserAgent inherits all methods from Mojo::UserAgent and implements 
 =head2 build_tx
 
 Builds a transaction using a persistently stored host
+
+=head2 build_form_tx
+
+Builds a form transaction using a persistently stored host
 
 =cut
