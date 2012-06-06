@@ -20,9 +20,9 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "Net::Heroku",
   "PREREQ_PM" => {
-    "Mojolicious" => "2.48"
+    "Mojolicious" => "2.98"
   },
-  "VERSION" => "0.04",
+  "VERSION" => "0.05",
   "test" => {
     "TESTS" => "t/*.t"
   }
