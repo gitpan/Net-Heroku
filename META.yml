@@ -13,7 +13,8 @@ meta-spec:
   version: 1.4
 name: Net-Heroku
 requires:
+  IO::Socket::SSL: 1.74
   Mojolicious: 2.98
 resources:
   repository: git://github.com/tempire/net-heroku.git
-version: 0.05
+version: 0.06
