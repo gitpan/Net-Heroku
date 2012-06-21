@@ -17,4 +17,4 @@ requires:
   Mojolicious: 2.98
 resources:
   repository: git://github.com/tempire/net-heroku.git
-version: 0.07
+version: 0.08
