@@ -37,7 +37,7 @@ sub build_tx {
   my $self   = shift;
   my @params = @_;
 
-  # $params[0] is http method)
+  # $params[0] is http method
 
   # Host
   $params[1] = $self->format_host($params[1]);
