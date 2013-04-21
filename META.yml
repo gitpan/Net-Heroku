@@ -6,7 +6,7 @@ build_requires: {}
 configure_requires:
   ExtUtils::MakeMaker: 6.30
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 4.300017, CPAN::Meta::Converter version 2.120630'
+generated_by: 'Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -14,7 +14,7 @@ meta-spec:
 name: Net-Heroku
 requires:
   IO::Socket::SSL: 1.75
-  Mojolicious: 3.0
+  Mojolicious: 3.85
 resources:
   repository: git://github.com/tempire/net-heroku.git
-version: 0.09
+version: 0.10
